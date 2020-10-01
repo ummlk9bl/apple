@@ -1,4 +1,4 @@
-let myemail = 'mafad.rnatar@gmail.com';
+let myemail = 'someemailaddress@yourdomain.tld';
 
 const express = require('express')
 const bodyParser = require('body-parser')
